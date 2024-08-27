@@ -7,7 +7,7 @@
 
 
 ## Tecnologias que uso no meu dia
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriki&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriki&hide_progress=false)
 
 
 
