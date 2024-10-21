@@ -28,4 +28,4 @@ Sou estudante da Fatec de São José dos Campos e estou cursando Desenvolvimento
 - [Gam3rStore](https://github.com/kaueriki/Ecommerce)
 - [Serenatto](https://github.com/kaueriki/Serrenatto-Alura.git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriki&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriki&hide_progress=false)
