@@ -25,6 +25,7 @@ Sou estudante da Fatec de São José dos Campos e estou cursando Desenvolvimento
 - [TechEmpire](https://github.com/APIEquipe/EquipeTechEmpireAPI)<br/>
 - [BetterCallUs](https://github.com/BananaaScript/BetterCallUs)<br/>
 - [Sistema Gerenciador de Ativos](https://github.com/BananaaScript/SGA.git)<br/>
+- [Gam3rStore](https://github.com/kaueriki/Ecommerce)
 - [Serenatto](https://github.com/kaueriki/Serrenatto-Alura.git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueriki&hide_progress=true)
